@@ -55,3 +55,6 @@ love .
 Isso abrirá o jogo usando o Love2D.
 
 **Atenção**: Você precisa de uma interface gráfica para jogar.
+
+
+ou simplesmente abra o arquivo game.love
