@@ -58,3 +58,6 @@ Isso abrirá o jogo usando o Love2D.
 
 
 ou simplesmente abra o arquivo game.love
+
+
+caso queira um desktop no termux recomendo https://github.com/Yisus7u7/termux-desktop-xfce/tree/main
