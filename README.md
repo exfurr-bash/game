@@ -1,5 +1,4 @@
 
-```markdown
 # Guia para Executar o Jogo no Termux
 
 Este guia fornece instruções sobre como atualizar os repositórios, instalar o Git, clonar o repositório e iniciar o jogo usando o Love2D no Termux.
@@ -7,7 +6,7 @@ Este guia fornece instruções sobre como atualizar os repositórios, instalar o
 ## Passo 1: Atualizar Repositórios
 
 Antes de instalar novos pacotes, é uma boa prática atualizar os repositórios do Termux. Execute o seguinte comando:
-```
+
 ```bash
 pkg update && pkg upgrade
 ```
